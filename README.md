@@ -29,6 +29,19 @@ Este projeto é uma aplicação Windows Forms em C# que calcula a elegibilidade 
 - `inssmas.cs`: Calcula a aposentadoria para homens.
 - `inssfem.cs`: Calcula a aposentadoria para mulheres.
 
-## Autor
+## Imagens do Projeto
+### Tela de Login
+<img src="https://github.com/user-attachments/assets/b20ffd6e-cd36-432e-a4f4-dac55f059829" width="300">
 
-Desenvolvido para fins acadêmicos.
+### Validação do Login
+<img src="https://github.com/user-attachments/assets/b15baef0-285f-4e85-a905-1722d69aa209" width="300">
+
+### Escolher Gênero
+<img src="https://github.com/user-attachments/assets/7e0479b0-751c-4ab0-a1fa-900d67f71b15" width="300">
+
+### Cálculo do Tempo de Contribuição
+<img src="https://github.com/user-attachments/assets/24ada530-d16d-4282-ae9e-cdffa9e91ef2" width="300">
+
+
+
+
